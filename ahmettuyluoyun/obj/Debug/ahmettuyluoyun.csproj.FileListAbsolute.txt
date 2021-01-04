@@ -1,0 +1,7 @@
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\bin\Debug\ahmettuyluoyun.exe.config
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\bin\Debug\ahmettuyluoyun.exe
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\bin\Debug\ahmettuyluoyun.pdb
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\obj\Debug\ahmettuyluoyun.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\obj\Debug\ahmettuyluoyun.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\obj\Debug\ahmettuyluoyun.exe
+C:\Users\ThinkPad\Desktop\ahmettuyluoyun\ahmettuyluoyun\obj\Debug\ahmettuyluoyun.pdb
